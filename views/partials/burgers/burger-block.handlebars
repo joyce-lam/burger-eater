@@ -1,8 +1,8 @@
 <li>
-	<h3>{{burger_name}}</h3>
+	<h3 class="text-center">{{burger_name}}</h3>
 		{{#if devoured}}
-			<button class="devoured" data-id="{{id}}" data-devour="{{devoured}}" disabled>Already Eaten...</button>
+			<button class="devoured center-block" data-id="{{id}}" data-devour="{{devoured}}" disabled>Already Eaten...</button>
 		{{else}}
-			<button class="devoured" data-id="{{id}}" data-devour="{{devoured}}">Eat Me!</button>
+			<button class="devoured center-block" data-id="{{id}}" data-devour="{{devoured}}">Eat Me!</button>
 		{{/if}}
 </li>
