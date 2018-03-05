@@ -29,8 +29,8 @@ if (process.env.JAWSDB_URL) {
 	connection = mysql.createConnection({
 		host: "localhost",
 		user: "root",
-		password: "hacktheplanet",
-		database: "todogain_db"
+		password: "fv8qupjms2rwzjx9",
+		database: "y1y4d5j8hle98330"
 	});
 }
 
