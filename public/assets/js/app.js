@@ -31,12 +31,4 @@ $(function() {
 			location.reload();
 		});
 	});
-
-	
-
-
-
-
-
-
 })
