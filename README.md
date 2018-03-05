@@ -4,7 +4,7 @@
 A full-stack site which allows the user to add a burger they want and consumes it by clicking a button. 
 
 This app is hosted on Heroku:
-[node-express-handlebars-burger-eater]
+[mvc-burger-eater](https://mvc-burger-eater.herokuapp.com/)
 
 ## Built With
 * Node.js
