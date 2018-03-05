@@ -1,4 +1,4 @@
-# node-express-handlebars-burger-eater
+# burger-eater
 
 ## About
 A full-stack site which allows the user to add a burger they want and consumes it by clicking a button. 
