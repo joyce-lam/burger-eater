@@ -18,4 +18,4 @@ This app is hosted on Heroku:
 * Twitter Bootstrap
 * Javascript
 * jQuery
-* The site was built with the technologies stated above with Object-Relational Mapping (ORM).
+* The site was built with the technologies stated above with Object-Relational Mapper (ORM).
